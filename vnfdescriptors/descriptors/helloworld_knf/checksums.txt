@@ -1,0 +1,4 @@
+00ae8615772eb132f5d5c8adb0066064	helloworld_knf/helloworld_knfd.yaml
+7385a8faf22cea073b95529f4c2ea2df	helloworld_knf/README.md
+63e78c9f208224d00b66b7d5506413f9	helloworld_knf/helloworld_knfd.yaml.bak
+3a4799d01502c86f56b0412dc33cf647	helloworld_knf/Scripts/cloud_init/cloud-config.txt

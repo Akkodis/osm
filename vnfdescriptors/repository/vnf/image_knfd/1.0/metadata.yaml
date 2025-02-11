@@ -1,0 +1,9 @@
+checksum: a7a6ec4cff1e878ca2d7314416583f02
+description: Image Pipeline
+id: image_knfd
+images:
+- image
+name: null
+path: /vnf/image_knfd/1.0/image_knfd-1.0.tar.gz
+vendor: null
+version: '1.0'

@@ -1,0 +1,9 @@
+checksum: 724fba5bd7796ef1483145380e601dd7
+description: Image Pipeline
+id: image_nsd
+name: image
+path: /ns/image_nsd/1.0/image_nsd-1.0.tar.gz
+vendor: null
+version: '1.0'
+vnfd-id-ref:
+- image_knfd

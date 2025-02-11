@@ -1,0 +1,9 @@
+checksum: e5811299bfb24f996733ea9a3669a5ff
+description: CITS Pipeline
+id: cits_nsd
+name: cits
+path: /ns/cits_nsd/1.0/cits_nsd-1.0.tar.gz
+vendor: null
+version: '1.0'
+vnfd-id-ref:
+- cits_knfd

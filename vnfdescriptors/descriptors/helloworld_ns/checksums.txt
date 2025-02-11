@@ -1,0 +1,3 @@
+591437acd76370117e9900389fa73d3f	helloworld_ns/helloworld_nsd.yaml.bak
+d7543cc463ded550fd5d7c82a5e0d6b9	helloworld_ns/README.md
+bd9ffdd897162baf96b82535921719ec	helloworld_ns/helloworld_nsd.yaml

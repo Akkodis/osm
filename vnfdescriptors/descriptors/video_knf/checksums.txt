@@ -1,0 +1,3 @@
+6e5c47d31a3c1267e27214244dc4a247	video_knf/video_knfd.yaml
+6783f92334632ffac2e0e549a930b939	video_knf/README.md
+3a4799d01502c86f56b0412dc33cf647	video_knf/Scripts/cloud_init/cloud-config.txt

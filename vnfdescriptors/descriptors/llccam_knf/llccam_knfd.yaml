@@ -1,0 +1,19 @@
+vnfd:
+  id: llccam_knfd
+  product-name: llccam_knfd
+  product-info-name: llccam_knfd
+  description: Low latency CCAM example
+  provider: Vicomtech
+  version: '1.0'
+  mgmt-cp: knf-cp0-ext
+  df:
+    - id: default-df
+  kdu:
+    - helm-chart: 5gmeta-helm/llccam
+      name: llccam
+  k8s-cluster:
+    nets:
+      - id: mgmtnet
+  ext-cpd:
+    - id: knf-cp0-ext
+      k8s-cluster-net: mgmtnet

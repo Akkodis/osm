@@ -1,0 +1,9 @@
+checksum: fa6d97350eba034d6de48f710f6cf78e
+description: KNF with KDU using a helm-chart for helloworld example (nginx server)
+id: helloworld_knfd
+images:
+- helloworld
+name: null
+path: /vnf/helloworld_knfd/1.0/helloworld_knfd-1.0.tar.gz
+vendor: null
+version: '1.0'

@@ -1,0 +1,2 @@
+89e138b4bee93ab7da967c1088ac110d	cits_ns/cits_nsd.yaml
+c8e07a002bb312473c4b8a5a28ce32c9	cits_ns/README.md

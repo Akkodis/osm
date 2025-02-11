@@ -1,0 +1,22 @@
+nsd:
+  nsd:
+    - id: llccam_nsd
+      name: llccam
+      designer: Vicomtech
+      description: Low Latency ccam example
+      version: '1.0'
+      vnfd-id:
+        - llccam_knfd
+      df:
+        - id: default-df
+          vnf-profile:
+            - id: '1'
+              vnfd-id: llccam_knfd
+              virtual-link-connectivity:
+                - virtual-link-profile-id: llccam_nsd_vld0
+                  constituent-cpd-id:
+                    - constituent-base-element-id: '1'
+                      constituent-cpd-id: knf-cp0-ext
+      virtual-link-desc:
+        - id: llccam_nsd_vld0
+          mgmt-network: true

@@ -1,0 +1,9 @@
+checksum: d80193a7d074c2ec97bf2c4b7a5d11fe
+description: Low Latency ccam example
+id: llccam_nsd
+name: llccam
+path: /ns/llccam_nsd/1.0/llccam_nsd-1.0.tar.gz
+vendor: null
+version: '1.0'
+vnfd-id-ref:
+- llccam_knfd

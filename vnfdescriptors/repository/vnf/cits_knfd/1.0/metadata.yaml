@@ -1,0 +1,9 @@
+checksum: 4b171af3c36cdef7954d79a37a74e27d
+description: CITS Pipeline
+id: cits_knfd
+images:
+- cits
+name: null
+path: /vnf/cits_knfd/1.0/cits_knfd-1.0.tar.gz
+vendor: null
+version: '1.0'

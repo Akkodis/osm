@@ -1,0 +1,9 @@
+checksum: 03b7b579c95e6306d2f0b2db57d08251
+description: Video Pipeline
+id: video_knfd
+images:
+- video
+name: null
+path: /vnf/video_knfd/1.0/video_knfd-1.0.tar.gz
+vendor: null
+version: '1.0'

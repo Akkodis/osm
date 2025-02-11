@@ -1,0 +1,3 @@
+dac3be508552615ecf94d1fe56cfbd72	image_knf/README.md
+a683773a07bf7211c83dedb1bf4d2856	image_knf/image_knfd.yaml
+3a4799d01502c86f56b0412dc33cf647	image_knf/Scripts/cloud_init/cloud-config.txt

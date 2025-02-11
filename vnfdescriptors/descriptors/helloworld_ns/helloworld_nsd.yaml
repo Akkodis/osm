@@ -1,0 +1,23 @@
+nsd:
+    nsd:
+    -   description: NS consisting of a KNF helloworld_knf connected to mgmt network
+        designer: Vicomtech
+        df:
+        -   id: default-df
+            vnf-profile:
+            -   id: test
+                virtual-link-connectivity:
+                -   constituent-cpd-id:
+                    -   constituent-base-element-id: helloworld
+                        constituent-cpd-id: mgmt-ext
+                    virtual-link-profile-id: mgmtnet
+                vnfd-id: helloworld_knfd
+        id: helloworld_ns
+        name: helloworld
+        version: '1.0'
+        virtual-link-desc:
+        -   id: mgmtnet
+            mgmt-network: true
+            vim-network-name: mgmt
+        vnfd-id:
+        - helloworld_knfd
