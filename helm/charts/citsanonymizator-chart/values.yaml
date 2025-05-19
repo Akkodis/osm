@@ -94,7 +94,7 @@ env:
   - name: AMQP_IP
     value: "message-broker.osm.svc.cluster.local"
   - name: AMQP_PORT
-    value: "5673"
+    value: "5672"
 
 osm_env:
   - name: INSTANCE_TYPE # Sampling rate variable
