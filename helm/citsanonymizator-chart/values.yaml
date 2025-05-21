@@ -8,14 +8,14 @@ image:
   repository: python
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "latest"
 
 dockerHubSecret: true
 #imagePullSecrets: []
 #imagePullSecrets:
 #  - name: regcred
 nameOverride: ""
-fullnameOverride: "cits-anonymizator"
+fullnameOverride: "cits-pet"
 
 serviceAccount:
   # Specifies whether a service account should be created
