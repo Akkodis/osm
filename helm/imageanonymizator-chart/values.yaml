@@ -8,14 +8,14 @@ image:
   repository: damadouk/image-pet
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "latest"
 
 dockerHubSecret: true
 #imagePullSecrets: []
 #imagePullSecrets:
 #  - name: regcred
 nameOverride: ""
-fullnameOverride: "image-anonymizator"
+fullnameOverride: "image-pet"
 
 serviceAccount:
   # Specifies whether a service account should be created
